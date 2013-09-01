@@ -1,7 +1,6 @@
 ﻿/*
  * Hierarchies Sprite Animation Exporter
- *
- * author: xu xiao cheng <xcxu@break-media.com.cn>
+ * Created by bman <zx123xz321hm3@hotmail.com>
  *
  * version 0.1   12/22/2011
  * version 0.2   12/29/2011
